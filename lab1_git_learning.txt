@@ -9,3 +9,14 @@ Lab 1 Activity:
 7. Download and install GitBash 
 8. Then create a folder and linked up repositories
 9. Then create txt file and write lab 1 activity
+
+srep-2:
+======
+1. Then again open GitBash and check "git status"
+2. Then Command "git add lab1 git learning.txt"
+3. Then Command  "git commit -m "First Commit"
+4. Then Command "git config --global user.email "you@example.com" and "git config --global user.name "Your Name"
+5. Then add my email and username
+6. again command "git commit -m "First Commit"
+7. Command "git push"
+8. After command "git push" i log in my GitHub account and authorized
