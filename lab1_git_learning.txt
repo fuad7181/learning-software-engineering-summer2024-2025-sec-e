@@ -1,0 +1,11 @@
+Lab 1 Activity:
+================
+1. Group Create 
+2. Group Memebers Name Submit
+3. GitHub account create
+4. Open GitHub account and update profile (something)
+5. Open google chrome and search faculty GitHub account
+6. Then Create repositories
+7. Download and install GitBash 
+8. Then create a folder and linked up repositories
+9. Then create txt file and write lab 1 activity
